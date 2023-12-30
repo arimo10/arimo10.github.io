@@ -30,7 +30,6 @@ name: 'push-remote'
 on:
     push:
         branches:
-            -main
             -master
         paths-ignore:
             -.gitignore
