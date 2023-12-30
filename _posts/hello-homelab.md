@@ -1,7 +1,7 @@
 ---
 title : Hello Website
 date : 2022-12-28 12:00:00 +0500
-categories : [HOME]
+categories : [Home,Categories]
 tags : [servers,dell,hp,supermario] #tags should always be in lower case
 ---
 
