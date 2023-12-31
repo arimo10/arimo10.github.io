@@ -1,0 +1,38 @@
+[
+  
+  {
+    "title": "Software for Robotics",
+    "url": "/posts/Software_Robotics/",
+    "categories": "Robotics, Software",
+    "tags": "software, robotics",
+    "date": "2022-12-28 07:00:00 +0000",
+    
+
+
+
+
+
+    
+    "snippet": "Possibilities",
+    "content": "Possibilities"
+  },
+  
+  {
+    "title": "Hello Website",
+    "url": "/posts/hello-world/",
+    "categories": "Home, Categories",
+    "tags": "servers, dell, hp, supermario",
+    "date": "2022-12-28 07:00:00 +0000",
+    
+
+
+
+
+
+    
+    "snippet": "WelcomeHello, Welcome to my website!Lorem ipsum## Hardware  one  two  three  four  fiveconsole.log('hello world!');name: 'push-remote'on:    push:        branches:            -master        paths-i...",
+    "content": "WelcomeHello, Welcome to my website!Lorem ipsum## Hardware  one  two  three  four  fiveconsole.log('hello world!');name: 'push-remote'on:    push:        branches:            -master        paths-ignore:            -.gitignore            -README.md            -LICENSEsudo apt update &amp;&amp; sudo apt upgradePhotos"
+  }
+  
+]
+
