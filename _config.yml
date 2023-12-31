@@ -70,7 +70,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://media.licdn.com/dms/image/C5603AQFh0spV3F6Xig/profile-displayphoto-shrink_100_100/0/1647789591963?e=1709769600&v=beta&t=emRfkDbHP95VVNcLGFN-Ii6bVc8IznIbvNJ7Hc2r6oo'
+img_cdn: 'https://i.redd.it/c0wfe68jx0p61.jpg'
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
